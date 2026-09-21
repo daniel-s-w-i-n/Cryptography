@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacFullBlockEncryptTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:44" hostname="LAPTOP-BERQQN8S" time="0.129">
+  <properties/>
+  <testcase name="doubleBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacFullBlockEncryptTests" time="0.016"/>
+  <testcase name="multiFullBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacFullBlockEncryptTests" time="0.099"/>
+  <testcase name="singleBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacFullBlockEncryptTests" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Ciphers.Zodiac.EncryptDecryptTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:26" hostname="LAPTOP-BERQQN8S" time="0.017">
+  <properties/>
+  <testcase name="singleEncryptDecryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.EncryptDecryptTests" time="0.003"/>
+  <testcase name="doubleEncryptDecryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.EncryptDecryptTests" time="0.005"/>
+  <testcase name="multiEncryptDecryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.EncryptDecryptTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Ciphers.Zodiac.PadTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:38" hostname="LAPTOP-BERQQN8S" time="0.019">
+  <properties/>
+  <testcase name="padTestOne()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.PadTests" time="0.002"/>
+  <testcase name="padTestTwo()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.PadTests" time="0.002"/>
+  <testcase name="padTestThree()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.PadTests" time="0.002"/>
+  <testcase name="padTestFour()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.PadTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

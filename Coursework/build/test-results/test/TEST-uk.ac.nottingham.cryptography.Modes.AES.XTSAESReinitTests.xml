@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Modes.AES.XTSAESReinitTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:44" hostname="LAPTOP-BERQQN8S" time="0.023">
+  <properties/>
+  <testcase name="doubleImmediateReinitTest()" classname="uk.ac.nottingham.cryptography.Modes.AES.XTSAESReinitTests" time="0.003"/>
+  <testcase name="singleDelayedReinitTest()" classname="uk.ac.nottingham.cryptography.Modes.AES.XTSAESReinitTests" time="0.004"/>
+  <testcase name="multiDelayedReinitTest()" classname="uk.ac.nottingham.cryptography.Modes.AES.XTSAESReinitTests" time="0.006"/>
+  <testcase name="singleImmediateReinitTest()" classname="uk.ac.nottingham.cryptography.Modes.AES.XTSAESReinitTests" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

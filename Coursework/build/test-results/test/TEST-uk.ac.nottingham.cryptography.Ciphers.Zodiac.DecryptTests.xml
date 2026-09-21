@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:26" hostname="LAPTOP-BERQQN8S" time="0.03">
+  <properties/>
+  <testcase name="decryptTestOne()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" time="0.003"/>
+  <testcase name="decryptTestTwo()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" time="0.003"/>
+  <testcase name="decryptTestThree()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" time="0.003"/>
+  <testcase name="decryptTestFour()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" time="0.005"/>
+  <testcase name="decryptTestFive()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.DecryptTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

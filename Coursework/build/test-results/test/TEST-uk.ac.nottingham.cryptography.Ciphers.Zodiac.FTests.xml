@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:26" hostname="LAPTOP-BERQQN8S" time="0.027">
+  <properties/>
+  <testcase name="singleFTestOne()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.003"/>
+  <testcase name="singleFTestTwo()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.003"/>
+  <testcase name="singleFTestThree()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.002"/>
+  <testcase name="doubleFTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.003"/>
+  <testcase name="tripleFTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.004"/>
+  <testcase name="multiFTest()" classname="uk.ac.nottingham.cryptography.Ciphers.Zodiac.FTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

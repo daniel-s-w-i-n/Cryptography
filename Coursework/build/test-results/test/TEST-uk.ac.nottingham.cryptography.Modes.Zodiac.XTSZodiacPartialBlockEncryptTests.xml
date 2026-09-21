@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacPartialBlockEncryptTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:59:09" hostname="LAPTOP-BERQQN8S" time="0.041">
+  <properties/>
+  <testcase name="multipleThenPartialBlockTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacPartialBlockEncryptTests" time="0.01"/>
+  <testcase name="doubleThenPartialBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacPartialBlockEncryptTests" time="0.008"/>
+  <testcase name="tripleThenPartialBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacPartialBlockEncryptTests" time="0.005"/>
+  <testcase name="singleThenPartialBlockEncryptTests()" classname="uk.ac.nottingham.cryptography.Modes.Zodiac.XTSZodiacPartialBlockEncryptTests" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

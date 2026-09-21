@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.Ciphers.AES.AESTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-03T19:58:26" hostname="LAPTOP-BERQQN8S" time="0.073">
+  <properties/>
+  <testcase name="decryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.AES.AESTests" time="0.061"/>
+  <testcase name="encryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.AES.AESTests" time="0.001"/>
+  <testcase name="encryptDecryptTest()" classname="uk.ac.nottingham.cryptography.Ciphers.AES.AESTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
